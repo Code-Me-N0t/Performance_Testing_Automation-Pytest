@@ -5,8 +5,13 @@ This repository contains performance testing scripts using pytest to evaluate lo
 
 <h3>FEATURES</h3>
 • <b>First Load:</b>&nbsp Measures and records the page load times during the first visit of the web application.
-
-<pre><code id="code-block">git clone https://github.com/Code-Me-N0t/PerformanceTestingAutomation.git\n</code></pre>
-<pre><code id="code-block">cd PerformanceTestingAutomation</code></pre>
+• <b>Cached Load:</b>&nbsp Assesses the load times when the web application is accessed from the cache.
+• <b>Memory Usage:</b>&nbsp Tracks the initial and peak JavaScript heap size to evaluate memory consumption.
+• <b>CPU Usage:</b>&nbsp Monitors CPU usage during the application's operation to gauge performance impact.
+</br>
+<h3>USAGE</h3>
+1. Clone the repository:
+<pre><code id="code-block">git clone https://github.com/Code-Me-N0t/PerformanceTestingAutomation.git\n</br>
+cd PerformanceTestingAutomation</code></pre>
 
 <pre>sample text</pre>
