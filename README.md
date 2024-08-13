@@ -8,11 +8,3 @@ This repository contains performance testing scripts using pytest to evaluate lo
     </code>
 </pre>
 <button onclick="copyCode()">Copy Code</button>
-<script>
-    function copyCode() {
-        const code = document.getElementById('code-block').innerText;
-        navigator.clipboard.writeText(code).then(() => {
-            alert('Code copied to clipboard');
-        });
-    }
-</script>
