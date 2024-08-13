@@ -11,7 +11,8 @@ This repository contains performance testing scripts using pytest to evaluate lo
 </br>
 <h3>USAGE</h3>
 1. Clone the repository:
-<pre><code id="code-block">git clone https://github.com/Code-Me-N0t/PerformanceTestingAutomation.git\n</br>
+<pre><code id="code-block">git clone https://github.com/Code-Me-N0t/PerformanceTestingAutomation.git</br>
 cd PerformanceTestingAutomation</code></pre>
+</br>
 
 <pre>sample text</pre>
