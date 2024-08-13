@@ -3,7 +3,7 @@ This repository contains performance testing scripts using pytest to evaluate lo
 
 <pre>
   <code id="code-block">
-  git clone https://github.com/your-username/your-repository.git
-  cd your-repository
-    <code>
+    git clone https://github.com/Code-Me-N0t/PerformanceTestingAutomation.git
+    cd PerformanceTestingAutomation
+  <code/>
 </pre>
