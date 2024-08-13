@@ -3,6 +3,9 @@ This repository contains performance testing scripts using pytest to evaluate lo
 
 <i><p>Note: This project is for personal usage only. This is designed for automating simple performance tests only and still being improved</p></i></br>
 
+<h3>FEATURES</h3>
+• <b>First Load:</b>&nbsp Measures and records the page load times during the first visit of the web application.
+
 <pre><code id="code-block">git clone https://github.com/Code-Me-N0t/PerformanceTestingAutomation.git\n</code></pre>
 <pre><code id="code-block">cd PerformanceTestingAutomation</code></pre>
 
