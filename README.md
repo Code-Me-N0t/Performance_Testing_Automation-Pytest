@@ -12,10 +12,8 @@ This repository contains performance testing scripts using pytest to evaluate lo
 1. Clone the repository:
 <pre><code id="code-block">git clone https://github.com/Code-Me-N0t/PerformanceTestingAutomation.git</br>
 cd PerformanceTestingAutomation</code></pre>
-</br>
 2. Install the required dependecies:
 <pre><code id="code-block">pip install -r requirements.txt</code></pre>
-</br>
 3. Run the tests:
 <pre><code id="code-block">pytest -s -m firstload</code></pre>
 <pre><code id="code-block">pytest -s -m cached</code></pre>
