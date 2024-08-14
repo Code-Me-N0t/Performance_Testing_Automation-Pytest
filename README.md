@@ -21,7 +21,7 @@ cd PerformanceTestingAutomation</code></pre>
 <pre><code id="code-block">pytest -s -m cached</code></pre>
 <pre><code id="code-block">pytest -s -m memory</code></pre>
 <pre><code id="code-block">pytest -s -m cpu</code></pre>
-</br></br>
+</br>
 <h3>OUTPUT</h3>
 • <b>desktop_firstload.json:</b>&nbsp Contains load times and average load time for the first load performance test.</br>
 • <b>desktop_cached.json:</b>&nbsp Contains load times and average load time for the cached load performance test.</br>
