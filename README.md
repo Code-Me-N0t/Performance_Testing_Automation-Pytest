@@ -26,5 +26,5 @@ cd PerformanceTestingAutomation</code></pre>
 • <b>desktop_firstload.json:</b>&nbsp Contains load times and average load time for the first load performance test.</br>
 • <b>desktop_cached.json:</b>&nbsp Contains load times and average load time for the cached load performance test.</br>
 • <b>memory_stats.json:</b>&nbsp Includes initial and peak JavaScript heap sizes, along with their averages.</br>
-• <b>cpu_stats.json:</b>&nbsp Provides initial and highest CPU usage values, along with their averages.</br>
+• <b>cpu_stats.json:</b>&nbsp Provides initial and highest CPU usage values, along with their averages.</br></br>
 <i><p>Note: This project is for personal usage only. This is designed for automating simple performance tests only and still being improved</p></i></br>
