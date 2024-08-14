@@ -1,0 +1,6 @@
+pytest
+requests
+pyautogui
+selenium
+colorama
+psutil
